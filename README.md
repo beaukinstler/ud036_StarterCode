@@ -7,18 +7,14 @@ This application statically stores a list of Movie() objects, and using attribut
 
 As a side function, when the python module is run from a terminal, any movie that shows up on the web page, will also have it's name and description outputed to the terminal.
 
-------------
-
 Getting Started
 ---------------
 
-Some of this will be compatible with both python 2.7 and 3.2, but the course is designed for 2.7. If you're trying some of this code, and it's not working, make sure you're using 2.7
-
-Known Issues
-------------
+You'll need to have Python installed on your computer. Python 2.7 is the version this application is developed on. Python 3.2 may work, but isn't the tested version.
 
 Documentation and Support
 -------------------------
+This is a demo project, and there is planned support. However, you may find support on the [Udacity forums](https://discussions.udacity.com/).
 
 Usage
 -----
