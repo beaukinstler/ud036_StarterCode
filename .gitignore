@@ -110,3 +110,5 @@ __MACOSX
 __pycach_*
 .vscode
 .env
+*.html
+*.htm

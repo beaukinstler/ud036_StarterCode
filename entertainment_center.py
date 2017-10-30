@@ -29,7 +29,7 @@ def make_list_of_movies():
         "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.", \
         "https://images-na.ssl-images-amazon.com/images/M/MV5BYmFhNjMwM2EtNGViMy00MTZmLWIzNTYtYzg1NWYwNTE2MGJhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX182_CR0,0,182,268_AL_.jpg", \
         "https://www.youtube.com/watch?v=eW9Xo2HtlJI")
- 
+
     return [crooklyn, o_brother, avatar, suburbicon, all_i_see_is_you, toy_story]
 
 

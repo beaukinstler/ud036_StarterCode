@@ -23,10 +23,16 @@ Documentation and Support
 Usage
 -----
 
-1. Edit the "entertainment_center" file. The movies need to be changed in the `make_list_of_movies()` function.
-1. Create a Movie() object for each movie.
-1. Add the movie instance to the `movies_list` array, if you want to show up on the web page.
-1. run the entertainment_center.py file. `python entertainment_center.py`
+1. Download and unzip the files in this [zip file](https://github.com/beaukinstler/ud036_StarterCode/archive/master.zip), or clone with `$ git clone git@github.com:beaukinstler/ud036_StarterCode.git`
+1. `cd` into the 'ud036_StarterCode' folder.
+1. Edit the "entertainment_center.py" file.
+    * The movies can be changed in the `make_list_of_movies()` function.
+    * NOTE: You must create a Movie() object for each movie that you want to include.
+1. Ensure all the movie instances have also been added to the `movies_list` array, if you want them show up on the web page.
+1. run the entertainment_center.py file.
+    * In most steups, with python installed, you should be able to run this command from the folder with this code
+        > `$ python entertainment_center.py`
+    * This will run the code, create a `fresh_tomatoes.html` file in the working directory, and launch a web browser to read the file.
 
 Issues
 ------
@@ -34,7 +40,7 @@ Issues
 Contributing
 ------------
 
-This is a demo project and will not be actively maintained. You're tallents will be far more useful elseware.
+This is a demo project and will not be actively maintained. Your tallents will be far more useful elseware.
 
 Credits
 -------
