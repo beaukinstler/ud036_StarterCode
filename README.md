@@ -14,6 +14,7 @@ You'll need to have Python installed on your computer. Python 2.7 is the version
 
 Documentation and Support
 -------------------------
+
 This is a demo project, and there is planned support. However, you may find support on the [Udacity forums](https://discussions.udacity.com/).
 
 Usage
